@@ -9,7 +9,7 @@
 <h1 align="center"><b>The Vault</b></h1>
 <h4 align="center">For students of Cohort <b>SE-NYC-061223</b>.</h4>
 
-## Summary
+## Summary 🌟
 
 This is the single-source-of-truth for information, tips/tricks, documentation, tutorials, practice coding challenges, and other useful resources for SE-NYC-061223 cohort students at Flatiron School. 
 
