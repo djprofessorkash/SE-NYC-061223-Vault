@@ -2,6 +2,16 @@
 .DS_Store
 */.DS_Store
 
+# Git-LFS Attributes Config
+.gitattributes
+
+# Supplementary Textbooks/Resources
+P1-Intro-to-JS/books/*.zip
+P2-Intro-to-React/books/*.zip
+P3-Intro-to-Python/books/*.zip
+P4-Intro-to-Flask/books/*.zip
+P5-Full-Stack-Capstone/books/*.zip
+
 # Incomplete READMEs
 P2-Intro-to-React/README.md
 P3-Intro-to-Python/README.md
